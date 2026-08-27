@@ -1,0 +1,29 @@
+# macOS and editor files
+.DS_Store
+*.swp
+*.tmp
+
+# Secrets and local configuration
+.env
+.env.*
+*.p12
+*.cer
+*.key
+*.pem
+*.api_key
+*.mobileprovision
+*.provisionprofile
+notarytool-profile*
+
+# Source/build directories do not belong in this distribution repository
+Sources/
+Tests/
+Packages/
+.build/
+.swiftpm/
+DerivedData/
+Package.swift
+Package.resolved
+*.xcodeproj/
+*.xcworkspace/
+

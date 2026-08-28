@@ -4,25 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>WeekBar</title>
         <item>
-            <title>1.5.0</title>
-            <pubDate>Fri, 28 Aug 2026 04:28:48 +0000</pubDate>
+            <title>1.5.1</title>
+            <pubDate>Fri, 28 Aug 2026 05:27:12 +0000</pubDate>
             <link>https://github.com/hisass/WeekBar-Releases/releases</link>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# WeekBar 1.5.0
+            <description sparkle:format="markdown"><![CDATA[# WeekBar 1.5.1
 
-- 正式Bundle Identifier `dev.hisass.weekbar` へ移行しました。
-- Sparkle 2による自動更新基盤と手動の「アップデートを確認…」を追加しました。
-- Hisass macOS Release Standardを適用する最初の正式配布baselineです。
-- Bundle Identifier変更により、カレンダー、位置情報、Appleカレンダー操作の許可をmacOSから再確認される場合があります。
-
-1.5.0は最初のSparkle対応版です。1.4.0から1.5.0への移行は手動インストールが必要です。
+- アプリ内アップデート機能を修正しました。
+- 配布パッケージの検証を改善しました。
 ]]></description>
-            <enclosure url="https://github.com/hisass/WeekBar-Releases/releases/download/v1.5.0/WeekBar-1.5.0.zip" length="2200457" type="application/octet-stream" sparkle:edSignature="uPshyphK36iosNnJ1pLPNa0jjw5xKtU71yDpi6+VLh1h92W5J0RM8TK/ty+lApvlhU9dr6Ibr+INgnQ9JGMSAA=="></enclosure>
+            <enclosure url="https://github.com/hisass/WeekBar-Releases/releases/download/v1.5.1/WeekBar-1.5.1.zip" length="2200458" type="application/octet-stream" sparkle:edSignature="rTAYYh80dS1AwbamX5qxiYk6tGvV/5LF6h+1fjObl7zX/UpDf/szV3MkYGu4+7O8Ykkkryvndf9F/Fv2wBnDDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: F69aIis4Svp7q7mxznMdXA8iuVfjuxq/wctpZ1eZ+jQRgzFy6u47eUNO5gtR0fb53VWMcQxYAt+Y/twdA+YXDQ==
-length: 1765
+edSignature: TDkaSzOjUH/FfvIUi9xUbDsOZcY7iJdp4cbeCo8vsQbqasQkHeOco/j0nc4Q6v8SwQdzexGmwcvup4Gf9IAOAQ==
+length: 1338
 -->

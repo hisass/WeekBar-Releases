@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>WeekBar</title>
         <item>
-            <title>1.5.3</title>
-            <pubDate>Thu, 03 Sep 2026 16:22:50 +0000</pubDate>
+            <title>1.5.4</title>
+            <pubDate>Thu, 03 Sep 2026 17:33:21 +0000</pubDate>
             <link>https://github.com/hisass/WeekBar-Releases/releases</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# WeekBar 1.5.3
+            <description sparkle:format="markdown"><![CDATA[# WeekBar 1.5.4
 
-- 月表示にポインタを合わせるだけで、月間カレンダーを表示できるようになりました。
+- 月間カレンダーを開くたびに、今日が属する月を表示するようになりました。
 ]]></description>
-            <enclosure url="https://github.com/hisass/WeekBar-Releases/releases/download/v1.5.3/WeekBar-1.5.3.zip" length="2208797" type="application/octet-stream" sparkle:edSignature="ViBXd+4NtmVmSswikTlzDQz7a/n2dDViTMwxYep7hTneIo6gtkphE3+Aq2MdtPkNhiXZ+6cBCVVFin/0muokAw=="></enclosure>
+            <enclosure url="https://github.com/hisass/WeekBar-Releases/releases/download/v1.5.4/WeekBar-1.5.4.zip" length="2209178" type="application/octet-stream" sparkle:edSignature="JCVqJK3CUj0KiMP9iXNVZOwD/fwc7DkQSik13kRie1xIeAhYZTV7SXtoynX6gd0Q4n52Kb5IOxSxBDQsi9nEBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dw/uk/dMprvhLR6GHPPrQEiDgZhRzpUKtek5idd7GWpOCUb2tcQ70MeLkF7N71YPSVvu4AR7K6yk//dEdQ3JBQ==
-length: 1338
+edSignature: HywZTmZfC2APT2dpfG+kW0ANX2OzOilE3P4/dTWDbqE5imu7a9SgCJ0jGJewXfv3z0leZKO+Cld0NUNFHZ4RAg==
+length: 1326
 -->

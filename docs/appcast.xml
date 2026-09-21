@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>WeekBar</title>
         <item>
-            <title>1.5.7</title>
-            <pubDate>Mon, 21 Sep 2026 04:07:31 +0000</pubDate>
+            <title>1.5.8</title>
+            <pubDate>Mon, 21 Sep 2026 05:17:16 +0000</pubDate>
             <link>https://github.com/hisass/WeekBar-Releases/releases</link>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.5.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# WeekBar 1.5.7
+            <description sparkle:format="markdown"><![CDATA[# WeekBar 1.5.8
 
-- 左右の週送りボタンをクリックした際に、予定ウインドウが表示されて週が切り替わらない問題を修正しました。
+- 週送りと「…」メニューのクリックが反応しない問題を修正しました。
 ]]></description>
-            <enclosure url="https://github.com/hisass/WeekBar-Releases/releases/download/v1.5.7/WeekBar-1.5.7.zip" length="2222589" type="application/octet-stream" sparkle:edSignature="Y2P9UH+0a8o+4e0MmI2Gakq/oeDsee0o9sotGPc6XUvGnI181//yGvYOx1U23btLoSdbSfAdjhtkxw989NQTBQ=="></enclosure>
+            <enclosure url="https://github.com/hisass/WeekBar-Releases/releases/download/v1.5.8/WeekBar-1.5.8.zip" length="2223250" type="application/octet-stream" sparkle:edSignature="GNqa8Bro/ljb/MSgKhWRODuf55RPzanFINydMp7Lo4iSBf6uV0cTwlU+efMr2utmjoGEKscRImfPGjvjKOsgCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /trsYALdRYeA+TpEHw9u8paw7GEYfuy6CMc61OUloH1ISADdfhH54cOrp3297pPa69FKyOZYNjdBP52q8/OXBA==
-length: 1374
+edSignature: 1Ngbu2xmOy78QUgqUixAEFc19nGudAK6cUlSIsDh3WtbPrcMSMlNxjTGjp5DumDaM0VQMU2gVRuOW1HlXRl7CA==
+length: 1317
 -->

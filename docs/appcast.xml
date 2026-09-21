@@ -4,21 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>WeekBar</title>
         <item>
-            <title>1.5.6</title>
-            <pubDate>Fri, 11 Sep 2026 16:01:23 +0000</pubDate>
+            <title>1.5.7</title>
+            <pubDate>Mon, 21 Sep 2026 04:07:31 +0000</pubDate>
             <link>https://github.com/hisass/WeekBar-Releases/releases</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# WeekBar 1.5.6
+            <description sparkle:format="markdown"><![CDATA[# WeekBar 1.5.7
 
-- 日付が変わるタイミングでWeekBarが終了することがある問題を修正しました。
-- ログイン時に起動したWeekBarの安定性を改善しました。
+- 左右の週送りボタンをクリックした際に、予定ウインドウが表示されて週が切り替わらない問題を修正しました。
 ]]></description>
-            <enclosure url="https://github.com/hisass/WeekBar-Releases/releases/download/v1.5.6/WeekBar-1.5.6.zip" length="2221766" type="application/octet-stream" sparkle:edSignature="eQiBz6znPgYTohdVdGn8NcSCWHUD4RyD/yFGIdt/vFsVTsDgzbhIg91JdLSrG68HPliGSQK3yQQI/GeWA0CCAw=="></enclosure>
+            <enclosure url="https://github.com/hisass/WeekBar-Releases/releases/download/v1.5.7/WeekBar-1.5.7.zip" length="2222589" type="application/octet-stream" sparkle:edSignature="Y2P9UH+0a8o+4e0MmI2Gakq/oeDsee0o9sotGPc6XUvGnI181//yGvYOx1U23btLoSdbSfAdjhtkxw989NQTBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zVgYGRK28AcTweHGeSNmx829CGeCdjXfqtgJuG1ZD+MJE5FbXm0oKZ5FqOKDCqOg98k8kx60Q0vo8fh4TiXcDw==
-length: 1400
+edSignature: /trsYALdRYeA+TpEHw9u8paw7GEYfuy6CMc61OUloH1ISADdfhH54cOrp3297pPa69FKyOZYNjdBP52q8/OXBA==
+length: 1374
 -->
